@@ -18,7 +18,7 @@ public class Main {
 
             insertCountry(preparedStatement, "Italy",1);
             insertCountry(preparedStatement,"Italy",2);
-            insertCountry(preparedStatement,"France",3);
+            insertCountry(preparedStatement,"Germany",3);
             insertCountry(preparedStatement,"Germany",4);
 
 
